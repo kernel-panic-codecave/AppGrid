@@ -6,3 +6,5 @@ TWEAK_NAME = AppGrid
 AppGrid_FILES = Tweak.x
 
 include $(THEOS_MAKE_PATH)/tweak.mk
+SUBPROJECTS += appgridprefs
+include $(THEOS_MAKE_PATH)/aggregate.mk
