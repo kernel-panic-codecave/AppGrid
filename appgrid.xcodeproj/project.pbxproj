@@ -13,7 +13,8 @@
 		C86D27EE233AFCD800FC0304 /* control */ = {isa = PBXFileReference; lastKnownFileType = text; path = control; sourceTree = "<group>"; };
 		C86D27F1233AFD5C00FC0304 /* Build.sh */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = Build.sh; sourceTree = "<group>"; };
 		C86D27F2233AFD5C00FC0304 /* Install.sh */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = Install.sh; sourceTree = "<group>"; };
-		C86D27FB233B009200FC0304 /* Tweak.x */ = {isa = PBXFileReference; lastKnownFileType = text; path = Tweak.x; sourceTree = "<group>"; };
+		C86D27FB233B009200FC0304 /* Tweak.x */ = {isa = PBXFileReference; lastKnownFileType = text; path = Tweak.x; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.logos; };
+		C86D27FC233BB9EB00FC0304 /* appgridprefs */ = {isa = PBXFileReference; lastKnownFileType = folder; name = appgridprefs; path = ../AppGrid/appgridprefs; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -27,6 +28,7 @@
 				C86D27F1233AFD5C00FC0304 /* Build.sh */,
 				C86D27F2233AFD5C00FC0304 /* Install.sh */,
 				C86D27FB233B009200FC0304 /* Tweak.x */,
+				C86D27FC233BB9EB00FC0304 /* appgridprefs */,
 			);
 			sourceTree = "<group>";
 		};
