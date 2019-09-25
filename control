@@ -1,0 +1,9 @@
+Package: com.withertech.appgrid
+Name: AppSwitcherGrid
+Author: WitherTech
+Description: Change the style of the App Switcher to have an app grid like on the iPad.
+Depends: mobilesubstrate
+Maintainer: WitherTech
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
