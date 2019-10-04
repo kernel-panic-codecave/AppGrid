@@ -1,6 +1,6 @@
 Package: com.withertech.appgrid
 Name: AppGrid
-Author: WitherTech
+Author: WitherTech <witherking@withertech.com>
 Description: Change the style of the App Switcher to have an app grid like on the iPad.
 Depends: mobilesubstrate
 Maintainer: WitherTech
